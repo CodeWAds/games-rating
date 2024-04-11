@@ -2,8 +2,9 @@
 
 <h2>Запуск</h2>
 
-{% filename %}command-line{% endfilename %}
-<li>```cmd
-  npm run dev```</li>
+```
+npm i
+npm run dev
+```
 Сайт будет доступен на localhost:3005
 
