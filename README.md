@@ -2,8 +2,10 @@
 
 <h2>Запуск</h2>
 <ol>
-  <li>```cmd
-    npm i```</li>
+  <li>```javascript
+var s = "Подсветка JavaScript";
+alert(s);
+```</li>
   <li>```cmd
     npm run dev```</li>
   Сайт будет доступен на localhost:3005
